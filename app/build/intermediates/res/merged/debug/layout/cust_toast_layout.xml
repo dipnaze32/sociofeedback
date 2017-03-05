@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toastSilience"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="0dp"
+
+
+    >
+    <TextView android:id="@+id/text"
+        android:layout_marginTop="90dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:text="I couldn't hear you"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFF"
+        />
+
+    <ImageView android:src="@drawable/silence"
+        android:layout_marginTop="120dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="8dp"
+        />
+
+</RelativeLayout>
+

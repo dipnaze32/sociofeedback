@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreen"
+    android:background="@drawable/bg_gradient">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/namever"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="14dp"
+            android:text="Version 3.0"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="24dp"
+            android:gravity="center"
+
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/texthere"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="30dp"
+            android:text="Loading..."
+            android:textColor="#FFFFFF" />
+
+        <ProgressBar
+            android:id="@+id/ProgressBar01"
+            style="@android:style/Widget.Holo.Light.ProgressBar"
+            android:layout_width="250dp"
+            android:max="100"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/texthere"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_marginBottom="5dip" />
+
+        <TextView
+            android:id="@+id/namever"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:shadowColor="#7F000000"
+            android:shadowDx="1"
+            android:shadowDy="1"
+            android:shadowRadius="2"
+            android:text="SOCIOFEEDBACK"
+            android:textColor="#FFFFFF"
+            android:textSize="30dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@drawable/ic_launcher"
+            android:layout_marginBottom="22dp"
+            android:layout_above="@+id/namever"
+            android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

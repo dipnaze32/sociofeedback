@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_819cbfa7e7b6afdf51c22ebf3f8a686b9f889efa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.3.1/3ca9d0d53a27ecb88538ed874be417cfa827db5d/engine.io-client-0.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/engine.io-client-0.3.1_1613f67366249cd85579fd7afd176a1d69798291/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_359c762f283008c8d3c5806bc7a5c65989daf157/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.3.0/8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9/socket.io-client-0.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/socket.io-client-0.3.0_31a8f29dc19b9652856e9b4e0c1c45238f3f3651/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_3d624d1f0f62a00aa72079c7db9621333d353bab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.3.1/3ca9d0d53a27ecb88538ed874be417cfa827db5d/engine.io-client-0.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/engine.io-client-0.3.1_1613f67366249cd85579fd7afd176a1d69798291/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_91a308a0d6700b8518673104fcf7f38c49077eea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_3d624d1f0f62a00aa72079c7db9621333d353bab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.3.0/8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9/socket.io-client-0.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/socket.io-client-0.3.0_31a8f29dc19b9652856e9b4e0c1c45238f3f3651/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.akexorcist/RoundCornerProgressBar/2.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88c6386ad8356b89487b43bcaae4827b1abe999c">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.akexorcist-RoundCornerProgressBar-2.0.3_3548b2606347cf257c986723bbf3ef6f19181195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/libs/GraphView-4.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8bd182a66f13dedad362bfbf992be96de2be5969">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/2/GraphView-4.0.1_9e3a595ca4e202a3b34068b261b2adc5418874be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_359c762f283008c8d3c5806bc7a5c65989daf157/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2567ad5d1c434834d4c0be29be1a9f29f839a705">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5ae6ac814c19fa83a0de03d7f1f9a99f792e554/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/libs/TarsosDSP-Android-latest-bin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="9c319955ac49277e5547edee657e3e4f488c49b4">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/2/TarsosDSP-Android-latest-bin_4869df6235f56d2275970bef3cd74900ef2ea572/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/libs/GraphView-4.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd182a66f13dedad362bfbf992be96de2be5969">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/2/GraphView-4.0.1_9e3a595ca4e202a3b34068b261b2adc5418874be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="5e309b1df3051abebbfda31d1c80cd19bec617da">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.specyci-residemenu-1.6_6b0dd7853194255d91994255cef5f8e6c1d61d26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/libs/TarsosDSP-Android-latest-bin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c319955ac49277e5547edee657e3e4f488c49b4">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/2/TarsosDSP-Android-latest-bin_4869df6235f56d2275970bef3cd74900ef2ea572/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_91a308a0d6700b8518673104fcf7f38c49077eea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/SociofeedbackV2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74c7a7afdd19fc20d5b9a95a1bb093e902a93ecc">
+        <dex dex="/Users/Aiden/Downloads/SociofeedbackV2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_60844bfaef282be9343b23069fa2fb7769ee85da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e309b1df3051abebbfda31d1c80cd19bec617da">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.specyci-residemenu-1.6_6b0dd7853194255d91994255cef5f8e6c1d61d26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/SociofeedbackV2/app/libs/TarsosDSP-Android-latest-bin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c319955ac49277e5547edee657e3e4f488c49b4">
+        <dex dex="/Users/Aiden/Downloads/SociofeedbackV2/app/build/intermediates/transforms/dex/debug/folders/1000/2/TarsosDSP-Android-latest-bin_f520bb28925c6547f25b9477fa28fb12f986b47a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_ba24a7382106769ff377804272a86a602db21df5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/jars/libs/nineoldandroids-library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/nineoldandroids-library-2.4.0_8b811d54ec613605508b5db9f9f67db6b8bcb090/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/SociofeedbackV2/app/build/intermediates/exploded-aar/com.akexorcist/RoundCornerProgressBar/2.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88c6386ad8356b89487b43bcaae4827b1abe999c">
+        <dex dex="/Users/Aiden/Downloads/SociofeedbackV2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.akexorcist-RoundCornerProgressBar-2.0.3_9e2755b1978780be2bf2abac2e31dbbc3846e309/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/SociofeedbackV2/app/libs/GraphView-4.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd182a66f13dedad362bfbf992be96de2be5969">
+        <dex dex="/Users/Aiden/Downloads/SociofeedbackV2/app/build/intermediates/transforms/dex/debug/folders/1000/2/GraphView-4.0.1_fcc7916c0070b3b9e37496636c62469cefd4aee1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="6c43ee72056ae4a052e7e87897fddcc31680f732">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f67943fe2c969c5c41a6b9c1f26b410ae7c41aa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_087947c60011f3839e0b2d8fc20340d610e18380/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_ba24a7382106769ff377804272a86a602db21df5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/Java-WebSocket-1.3.0_4d80732cdb42cd5fadd1d6488a5484536199aa13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3c6df292a64aea5e64bc82da3f559bd1b551464">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5ae6ac814c19fa83a0de03d7f1f9a99f792e554/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/Aiden/Downloads/SociofeedbackV2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_2c949c62cb6ccea1049b9cf9f516921791d151aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/SociofeedbackV2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed726e721eb1a78338e8f2b6d0b94ec78076e65b">
+        <dex dex="/Users/Aiden/Downloads/SociofeedbackV2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b5ccfbe9f203622f0c0de917218406ea6d77fb41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c43ee72056ae4a052e7e87897fddcc31680f732">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f67943fe2c969c5c41a6b9c1f26b410ae7c41aa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.akexorcist/RoundCornerProgressBar/2.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="88c6386ad8356b89487b43bcaae4827b1abe999c">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.akexorcist-RoundCornerProgressBar-2.0.3_3548b2606347cf257c986723bbf3ef6f19181195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_819cbfa7e7b6afdf51c22ebf3f8a686b9f889efa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/jars/libs/nineoldandroids-library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/nineoldandroids-library-2.4.0_8b811d54ec613605508b5db9f9f67db6b8bcb090/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/Java-WebSocket-1.3.0_4d80732cdb42cd5fadd1d6488a5484536199aa13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_087947c60011f3839e0b2d8fc20340d610e18380/classes.dex" />
+    </item>
+
+</items>

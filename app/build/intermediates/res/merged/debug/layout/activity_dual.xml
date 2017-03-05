@@ -1,0 +1,303 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/speechrate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+
+        android:layout_marginTop="250dp"
+        android:textColor="@color/white"
+        android:textStyle="normal" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="60dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/btnSpeak"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:src="@drawable/icon_mic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/tap_on_mic"
+            android:textColor="@color/white"
+            android:textSize="15dp"
+            android:textStyle="normal" />
+    </LinearLayout>
+
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="290dp"
+        android:id="@+id/layout_content">
+
+        <TextView
+            android:id="@+id/mText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#C0C0C0"
+            android:textSize="12dp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center_horizontal"/>
+
+        <TextView
+            android:id="@+id/lbl_tvMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pitch in Hz:"
+            android:textColor="#C0C0C0"
+            android:textSize="12dp"
+            android:layout_marginBottom="28dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="10dp"
+            />
+
+        <TextView
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvMessage"
+            android:text="0 Hz"
+            android:textSize="12dp"
+            android:layout_marginLeft="200dp"
+            android:layout_marginTop="50dp"
+            android:textColor="#C0C0C0"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Status:"
+            android:textSize="12dp"
+            android:id="@+id/lbl_result_txtview"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="65dp"
+            android:textColor="#C0C0C0"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/result_txtview"
+            android:text="silence"
+            android:textSize="12dp"
+            android:layout_marginTop="65dp"
+            android:layout_marginLeft="200dp"
+            android:textColor="#C0C0C0"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Volume in dBSPL:"
+            android:textSize="12dp"
+            android:id="@+id/lbl_tvdBlevel"
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="50dp"
+            android:textColor="#C0C0C0"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvdBlevel"
+            android:text="0 dB"
+            android:textSize="12dp"
+            android:layout_marginLeft="200dp"
+            android:layout_marginTop="80dp"
+            android:textColor="#C0C0C0"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Volume:"
+            android:textSize="12dp"
+            android:id="@+id/lbl_res_tvdBlevel"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="95dp"
+            android:textColor="#C0C0C0"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/result_tvdBlevel"
+            android:text="0"
+            android:textSize="12dp"
+            android:layout_marginLeft="200dp"
+            android:layout_marginTop="95dp"
+            android:textColor="#C0C0C0"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MFCC:"
+            android:textSize="12dp"
+            android:id="@+id/lbl_res_mfcc"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="110dp"
+            android:textColor="#C0C0C0"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/result_mfcc"
+            android:text="0"
+            android:textSize="12dp"
+            android:layout_marginLeft="200dp"
+            android:layout_marginTop="110dp"
+            android:textColor="#C0C0C0"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Question:"
+            android:textSize="18dp"
+            android:id="@+id/question"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="125dp"
+            android:textColor="#C0C0C0"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SOCIO"
+            android:id="@+id/startfeedback"
+            android:layout_marginTop="240dp"
+            android:layout_marginLeft="8dp"/>
+
+
+    </FrameLayout>
+
+    <FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true">
+
+    <TextView
+        android:id="@+id/volume"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="USER 1"
+        android:layout_marginBottom="28dp"
+        android:textColor="#C0C0C0"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="10dp"
+        />
+
+        <TextView
+        android:id="@+id/timerValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:textColor="#ffffff"
+        android:text="@string/timerVal"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_marginTop="80dp" />
+
+        <com.akexorcist.roundcornerprogressbar.IconRoundCornerProgressBar
+            android:id="@+id/progressBarV"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_marginBottom="28dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="48dp"
+            android:layout_marginRight="10dp"
+            app:rcBackgroundPadding="2dp"
+            app:rcIconPadding="3dp"
+            app:rcIconSize="21dp"
+            app:rcProgressColor="#ffffff"
+            app:rcSecondaryProgressColor="#ffffff"
+
+            app:rcMax="100"
+            app:rcProgress="90"
+            app:rcRadius="5dp" />
+
+        <!--TextView
+            app:rcBackgroundColor="color"
+            android:id="@+id/textViewV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="0%"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="350dp"
+            android:layout_alignBottom="@+id/volume" /-->
+    </FrameLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:id="@+id/volume2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="USER 2"
+            android:layout_marginBottom="28dp"
+            android:textColor="#C0C0C0"
+            android:layout_marginTop="17dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            />
+
+
+        <com.akexorcist.roundcornerprogressbar.IconRoundCornerProgressBar
+            android:id="@+id/progressBarV2"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_marginBottom="28dp"
+            android:layout_marginTop="18dp"
+            android:layout_marginLeft="48dp"
+            android:layout_marginRight="10dp"
+            app:rcBackgroundPadding="2dp"
+            app:rcIconPadding="3dp"
+            app:rcIconSize="21dp"
+            app:rcProgressColor="#ffffff"
+            app:rcSecondaryProgressColor="#ffffff"
+
+            app:rcMax="100"
+            app:rcProgress="90"
+            app:rcRadius="5dp" />
+
+    </FrameLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:keepScreenOn="true"
+        android:scrollbarStyle="insideInset"
+        android:scrollbars="vertical"
+        android:id="@+id/scrollview1"
+        android:layout_marginTop="140dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:id="@+id/txtSpeechInput"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:layout_gravity="center_horizontal"
+            android:textStyle="normal" />
+    </ScrollView>
+</RelativeLayout>

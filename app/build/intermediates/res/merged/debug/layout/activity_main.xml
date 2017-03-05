@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/bg_gradient">
+
+    <!--ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/bg_gradient" /-->
+
+    <ImageView
+        android:id="@+id/title"
+        android:layout_marginTop="175dp"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:src="@drawable/title2"
+        />
+
+    <ImageButton
+        android:id="@+id/settings"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:background="@android:color/transparent"
+        android:src="@drawable/icon_settings"
+        android:layout_alignTop="@+id/aboutus"
+        android:layout_alignRight="@+id/start"
+        android:layout_alignEnd="@+id/start" />
+
+    <ImageButton
+        android:id="@+id/aboutus"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/icon_profile"
+        android:background="@android:color/transparent"
+        android:layout_marginTop="33dp"
+        android:layout_below="@+id/start"
+        android:layout_alignLeft="@+id/start"
+        android:layout_alignStart="@+id/start" />
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="220dp"
+        android:layout_height="40dp"
+        android:text="Dual User"
+        android:textColor="#0d0d0d"
+        android:typeface="sans"
+        android:textSize="15sp"
+        android:background="#cccccc"
+        android:alpha="0.30"
+        android:layout_below="@+id/title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="161dp"/>
+
+    <Button
+        android:id="@+id/start2"
+        android:layout_width="220dp"
+        android:layout_height="40dp"
+        android:text="Single User"
+        android:textColor="#0d0d0d"
+        android:typeface="sans"
+        android:textSize="15sp"
+        android:background="#cccccc"
+        android:alpha="0.30"
+        android:layout_marginTop="24dp"
+        android:layout_below="@+id/settings"
+        android:layout_alignLeft="@+id/aboutus"
+        android:layout_alignStart="@+id/aboutus" />
+
+    <!--com.example.user.pitchvolfeb.SecretTextView
+        android:id="@+id/description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="270dp"
+        android:layout_centerHorizontal="true"
+        android:text="To become a better communicator."
+        android:textSize="16sp"
+        android:typeface="sans"
+        android:textColor="@android:color/white"
+        /-->
+
+</RelativeLayout>

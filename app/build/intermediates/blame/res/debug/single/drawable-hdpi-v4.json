@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/progressbar.xml",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable-hdpi/progressbar.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shadow.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/res/drawable-hdpi-v4/shadow.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/progressbar.xml",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable-hdpi/progressbar.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shadow.png",
+        "source": "/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/res/drawable-hdpi-v4/shadow.png"
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/scream.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/scream.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/title_bar_menu_on.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/title_bar_menu_on.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/title_bar_menu.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/title_bar_menu.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/userguide.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/userguide.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/silenceguy.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/silenceguy.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/background.jpg",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/background.jpg"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/icon_profile.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/icon_profile.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/shadow.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/shadow.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/titlebar_menu_selector.xml",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/titlebar_menu_selector.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/understandguy.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/understandguy.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/understandguy.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/understandguy.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/icon_calendar.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/icon_calendar.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/icon_settings.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/icon_settings.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/off.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/off.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/understand.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/understand.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/title_bar_menu_on.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/title_bar_menu_on.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/off.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/off.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/userguide.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/userguide.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/scream.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/scream.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/icon_home.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/icon_home.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/silenceguy.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/silenceguy.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/icon_home.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/icon_home.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/shadow.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/shadow.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/background.jpg",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/background.jpg"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/titlebar_menu_selector.xml",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/titlebar_menu_selector.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/icon_profile.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/icon_profile.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/bg_gradient.xml",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/icon_calendar.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/icon_calendar.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/bg_gradient.xml",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/on.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/on.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/silence.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/silence.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/screamguy.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/screamguy.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/googleglass.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/googleglass.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/googleglass.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/googleglass.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/screamguy.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/screamguy.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/icon_settings.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/icon_settings.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/on.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/on.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable/understand.png",
+        "source": "/Users/Aiden/Downloads/test/app/src/main/res/drawable/understand.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/title_bar_menu.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/title_bar_menu.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable/silence.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/src/main/res/drawable/silence.png"
+    }
+]

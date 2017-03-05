@@ -1,0 +1,7 @@
+#Sun Mar 05 19:02:13 SGT 2017
+base.0=/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5ae6ac814c19fa83a0de03d7f1f9a99f792e554
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f67943fe2c969c5c41a6b9c1f26b410ae7c41aa6/classes.dex
+base.1=/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f67943fe2c969c5c41a6b9c1f26b410ae7c41aa6
+file.0=/Users/Aiden/Downloads/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5ae6ac814c19fa83a0de03d7f1f9a99f792e554/classes.dex

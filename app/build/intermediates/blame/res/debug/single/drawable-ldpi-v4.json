@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/Aiden/Downloads/sociofeedback 2017/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/res/drawable-ldpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Aiden/Downloads/test/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/Aiden/Downloads/test/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/res/drawable-ldpi-v4/ic_launcher.png"
+    }
+]

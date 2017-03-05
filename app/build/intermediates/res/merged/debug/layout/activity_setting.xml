@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layout_top">
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="46dp"
+            android:background="@color/white">
+            <TextView
+                android:id="@+id/settings"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Settings"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:textColor="@color/black"
+                android:textSize="24dp"
+                />
+
+            <Button
+                android:id="@+id/done"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:text="Done"
+                android:textSize="24dp"
+                android:textAllCaps="false"
+                android:textColor="@color/black"
+                android:layout_gravity="left|center_vertical"/>
+        </FrameLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="46dp"
+        android:id="@+id/layout_general">
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:background="#e6e6e6">
+            <TextView
+                android:id="@+id/General"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="14dp"
+                android:text="Low level features"
+                android:layout_gravity="left|center_vertical"
+                android:textColor="#0d0d0d"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                />
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="86dp"
+        android:id="@+id/layout_generalsettings">
+
+        <TextView
+            android:id="@+id/volume"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="14dp"
+            android:text="Volume"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            />
+
+        <!--com.kyleduo.switchbutton.SwitchButton
+            android:id="@+id/checkbox_v"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="14dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="14dp"
+            android:onClick="onClick"
+            />
+
+            <com.kyleduo.switchbutton.SwitchButton
+            android:id="@+id/checkbox_MFCC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="88dp"
+            android:layout_marginLeft="14dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="14dp"
+            android:onClick="onClick"/>
+
+        <com.kyleduo.switchbutton.SwitchButton
+            android:id="@+id/checkbox_p"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:layout_marginLeft="14dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="14dp"
+            android:onClick="onClick"
+            /-->
+
+        <ImageView
+            android:layout_width="340dp"
+            android:layout_height="1dp"
+            android:layout_marginTop="40dp"
+            android:background="#e6e6e6"
+            android:layout_gravity="center_horizontal"/>
+
+        <TextView
+            android:id="@+id/pitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:layout_marginLeft="14dp"
+            android:text="Pitch"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            />
+
+        <ImageView
+            android:layout_width="340dp"
+            android:layout_height="1dp"
+            android:layout_marginTop="80dp"
+            android:background="#e6e6e6"
+            android:layout_gravity="center_horizontal"/>
+
+        <TextView
+            android:id="@+id/MFCC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="88dp"
+            android:layout_marginLeft="14dp"
+            android:text="MFCC"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            />
+    </FrameLayout>
+
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="246dp"
+        android:background="#e6e6e6">
+        <TextView
+            android:id="@+id/IPaddr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="14dp"
+            android:text="IP address"
+            android:layout_gravity="left|center_vertical"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+
+    </FrameLayout>
+
+    <EditText
+        android:id="@+id/IP"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="284dp"
+        android:layout_marginLeft="10dp"
+        android:text="Enter your IP address"
+        android:textSize="18dp"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="70dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="288dp"
+        android:layout_marginLeft="280dp"
+        android:text="Submit"
+        android:textColor="@color/white"
+        android:textSize="10dp"/>
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="326dp"
+        android:background="#e6e6e6"
+        android:id="@+id/frameLayout">
+        <TextView
+            android:id="@+id/AppInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="14dp"
+            android:text="Volume Thresh"
+            android:layout_gravity="left|center_vertical"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="70dp"
+        android:layout_height="35dp"
+        android:text="thresh"
+        android:textColor="@color/white"
+        android:textSize="10dp"
+        android:layout_alignTop="@+id/th"
+        android:layout_alignLeft="@+id/submit"
+        android:layout_alignStart="@+id/submit" />
+
+    <EditText
+        android:id="@+id/th"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="volume_thresh"
+        android:textSize="18dp"
+        android:textColor="@color/white"
+        android:layout_below="@+id/frameLayout"
+        android:layout_alignLeft="@+id/IP"
+        android:layout_alignStart="@+id/IP" />
+    <FrameLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="120dp"
+        android:id="@+id/layout_copyright"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="10dp">
+        <TextView
+            android:id="@+id/copyright"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:text="Copyright @ 2016 Nanyang Technological University"
+            android:textSize="14dp"
+            android:textColor="#FFFFFF"
+             />
+
+        <TextView
+            android:id="@+id/appinfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:text="Version 3.0 (Aiden Yan)"
+            android:textSize="14dp"
+            android:textColor="#FFFFFF" />
+    </FrameLayout>
+
+
+</RelativeLayout>
